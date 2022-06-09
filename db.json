@@ -1,0 +1,55 @@
+{
+    "coffees": [
+        {
+            "id": 0,
+            "origin": "Africa",
+            "name": "Kenya Kirinyaga Kanwangi AB",
+            "price": "8.66",
+            "score": "91",
+            "flavor": "body",
+            "notes": [
+                "orange tea",
+                "pomegranate",
+                "candied citrus peel",
+                "juicy boysenberry",
+                "blackberry"
+            ],
+            "process_method": "wet process",
+            "web": "https://www.sweetmarias.com/kenya-kirinyaga-kamwangi-ab-7218.html"
+        },
+        {
+            "id": 1,
+            "origin": "Central America",
+            "name": "Nicaragua Dry Process Buenos Aires",
+            "price": "6.75",
+            "score": "86.8",
+            "flavor": "cocao",
+            "notes": [
+                "cacao nib",
+                "berry",
+                "chocolate-covered pistachio",
+                "holiday cranberry cookie"
+            ],
+            "process_method": "dry process",
+            "web": "https://www.sweetmarias.com/nicaragua-dry-process-buenos-aires-6913.html"
+        },
+        {
+            "id": 2,
+            "origin": "South America",
+            "name": "Colombia Inza Vereda Guanacas",
+            "price": "7.20",
+            "score": "87.4",
+            "flavor": "body",
+            "notes": [
+                "complex sugars",
+                "apple",
+                "monukka raisin",
+                "dried fig",
+                "pumpkin pie",
+                "honey"
+            ],
+            "process_method": "wet process",
+            "web": "https://www.sweetmarias.com/colombia-inza-vereda-guanacas-7166.html"
+        }
+    ]
+}
